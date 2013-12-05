@@ -1,10 +1,6 @@
 # comity
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Comity is a service / network discovery communication framework influenced by [A Framework for Distributed Computing](http://zguide.zeromq.org/lua:chapter8)
 
 ## License
 
